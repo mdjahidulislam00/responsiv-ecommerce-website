@@ -1,0 +1,25 @@
+   
+li{
+    padding-left: 18px;
+}
+li a{
+    font-weight: 700;
+    color:rgb(28, 27, 59)
+}
+.button-color{
+    background-color: #2A1E59;
+    color:white;
+}
+h5{
+    color:rgb(28, 27, 59);
+    font-size: 23px;
+    font-weight: 700;
+}
+h2{
+    color:#7BC483;
+    font-weight: 700;
+}
+.casual-backpack{
+    font-weight:700;
+    color:rgb(28, 27, 59);
+}
